@@ -1,0 +1,10 @@
+.head-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 15%;
+  margin-bottom: 20px;
+  background-color: bisque;
+  color: brown;
+}
